@@ -1,9 +1,5 @@
-Homework assignment no. 1, Tic-Tac-Toe
+Tic-Tac-Toe
 ====================================
-
-**Publication date:**  March 15, 2022
-
-**Submission deadline:** April 1, 2022
 
 ## CHANGELOG
 
@@ -12,7 +8,7 @@ Homework assignment no. 1, Tic-Tac-Toe
 
 General information
 -------------------
-The goal of this homework is to implement the game of [tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe)  
+The goal is to implement the game of [tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe)  
 The players will alternate turns, each playing one action command. 
 See the "Running the application" section of this README to understand the desired behavior and the user interface. 
 
@@ -165,10 +161,6 @@ The structure of the project provided as a base for your implementation should m
 2. Package  ```cz.muni.fi.pb162.hw01.impl``` should contain your implementation.
   - **Anything outside this package will be ignored during evaluation.**
 
-### Names in this document
-Unless fully classified name is provided, all class names are relative to the package ```cz.muni.fi.pb162.hw01``` or ```cz.muni.fi.pb162.hw01.impl``` for classes implemented as a part of your solution.
-
-
 ### Compiling the project
 The project can be compiled and packaged in the same way you already know
 
@@ -255,9 +247,6 @@ Game over after 4 turns
 | | | |
 -------
 ```
-
-### Submitting the assignment
-The procedure to submit your solution may differ based on your seminar group. However, it should be generally OK to submit ```target/homework01-2022-1.0-SNAPSHOT-sources.jar``` to the homework vault.
 
 ## Implementation
 Generally speaking, there are no mandatory requirements on the structure of your code as long as the command line interface of the ```Appplication``` class works correctly.
